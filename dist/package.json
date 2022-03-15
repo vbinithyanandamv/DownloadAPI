@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Lumel Technologies","email":"solutions@inforiver.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/downloadPdf2E888F84D8AF4009A80D868E64CB5381.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"downloadPdf","displayName":"DownloadPdf","guid":"downloadPdf2E888F84D8AF4009A80D868E64CB5381","visualClassName":"Visual","version":"1.0.0","description":"Download api sample","supportUrl":"https://inforiver.com","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}

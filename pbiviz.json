@@ -1,0 +1,23 @@
+{
+  "visual": {
+    "name": "downloadPdf",
+    "displayName": "DownloadPdf",
+    "guid": "downloadPdf2E888F84D8AF4009A80D868E64CB5381",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "Download api sample",
+    "supportUrl": "https://inforiver.com",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "4.0.0",
+  "author": {
+    "name": "Lumel Technologies",
+    "email": "solutions@inforiver.com"
+  },
+  "assets": { "icon": "assets/icon.png" },
+  "externalJS": null,
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": []
+}
